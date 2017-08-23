@@ -10,3 +10,6 @@ int add(int a);
 
 int sub(int a);
 
+int div(int a);
+
+

@@ -16,8 +16,3 @@ int main(int argc, char *argv[])
 	i add new line in branch2.
 	return 0;
 }
-
-void test()
-{
-
-}

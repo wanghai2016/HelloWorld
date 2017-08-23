@@ -8,3 +8,5 @@ int show(int a);
 
 int add(int a);
 
+int sub(int a);
+

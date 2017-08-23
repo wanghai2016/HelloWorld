@@ -1,3 +1,4 @@
+#include "base.h"
 #include <iostream>
 using namespace std;
 
@@ -11,7 +12,6 @@ int main(int argc, char *argv[])
 	33333
 	hello this is branch2.
 
-	asdfasdfasf
 	hello world
 	i add new line in branch2.
 	return 0;
